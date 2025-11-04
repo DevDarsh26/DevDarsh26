@@ -21,7 +21,7 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 |-----------|-------|
 | **Frontend** | React.js, Next.js, Tailwind CSS, JavaScript |
 | **Backend** | Node.js, Express.js, MongoDB |
-| **Tools** | Vs Code, PostMan |
+| **Tools** | Vs Code, PostMan, Clerk Authentication |
 
 ---
 
@@ -34,7 +34,6 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 
 ### 📊 GitHub Stats
 
-![Darsh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDarsh26&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarsh26&layout=compact&theme=radical)
 
 ---
