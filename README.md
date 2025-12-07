@@ -25,7 +25,7 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 |-----------|-------|
 | **Frontend** | React.js, Next.js, Tailwind CSS, JavaScript |
 | **Backend** | Node.js, Express.js, MongoDB |
-| **Tools** | Vs Code, Postman, Clerk Authentication |
+| **Tools** | Vs Code, Postman, Clerk Authentication, Firebase, Supabase |
 
 **Badges:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
