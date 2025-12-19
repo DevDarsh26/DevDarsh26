@@ -18,6 +18,8 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 ### 📊 GitHub Stats
 
 ![Darsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshmodi&theme=radical)
+
 
 ---
 
