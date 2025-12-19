@@ -15,7 +15,9 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 
 ---
 
-![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshmodi&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+![Darsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi&layout=compact&theme=radical)
 
 ---
 
@@ -25,7 +27,7 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 |-----------|-------|
 | **Frontend** | React.js, Next.js, Tailwind CSS, JavaScript |
 | **Backend** | Node.js, Express.js, MongoDB |
-| **Tools** | Vs Code, Postman, Clerk Authentication, Firebase, Supabase |
+| **Tools** | VS Code, Postman, Clerk Authentication, Firebase, Supabase |
 
 **Badges:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -40,7 +42,7 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🔗 [LegisBharat](https://legisbharat.vercel.app/) | Legal awareness platform for citizens | Next.js, AI APIs | |
+| 🔗 [LegisBharat](https://legisbharat.vercel.app/) | Legal awareness platform for citizens | Next.js, AI APIs |
 
 ---
 
