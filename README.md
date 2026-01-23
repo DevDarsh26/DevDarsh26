@@ -22,13 +22,6 @@ Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
 
 ---
 
-# 📊 GitHub Contributions
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshModi&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DarshModi&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarshModi&theme=tokyo-night)
 
 ### 🧰 Tech Stack
 
