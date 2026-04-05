@@ -1,53 +1,34 @@
-# 👋 Hi, I'm Darsh Modii
+# Hey, I'm Darsh Modii 👋
 
-💻 **Full-Stack Web Developer | AI Enthusiast | Builder**
-
-I'm passionate about creating impactful digital products and exploring how AI can enhance human creativity.  
-Currently focusing on **MERN stack**, **Next.js**, and **AI-powered web apps**.
+**Full-Stack Developer Student  · Learning AI **
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently learning **AI integrations**, **Next.js 15**
-- 🧩 I love building real-world, production-grade web apps
-- 🤖 Interested in **virtual assistants**, **automation**, and **AI-driven UIs**
-- 🎯 Goal: Build scalable, intelligent web platforms that simplify lives
+### 🧰 Stack
 
----
+| Layer | Tools |
+|-------|-------|
+| **Frontend** | Next.js, React, Tailwind CSS, JavaScript |
+| **Backend** | Node.js, Python |
+| **AI/ML** | LLM Integrations, AI Agents, Prompting |
+| **Deploy** | Vercel, GitHub, Cloudflare |
 
-### 📊 GitHub Stats
-
-![Darsh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi&layout=compact&theme=radical)
-
-
----
-
-
-### 🧰 Tech Stack
-
-| Category | Tools |
-|-----------|-------|
-| **Frontend** | React.js, Next.js, Tailwind CSS, JavaScript |
-| **Backend** | Node.js, Express.js, MongoDB |
-| **Tools** | VS Code, Postman, Clerk Authentication, Firebase, Supabase |
-
-**Badges:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📂 Featured Projects
+### 📊 Stats
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🔗 [LegisBharat](https://legisbharat.vercel.app/) | Legal awareness platform for citizens | Next.js, AI APIs |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi&layout=compact&theme=radical)
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-darshmodii.in-blueviolet?style=for-the-badge)](https://darshmodii.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/darsh-modii/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:darshmodi20@gmail.com)
