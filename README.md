@@ -23,7 +23,7 @@
 
 ### 📊 Stats
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDarsh26&theme=react-dark&hide_border=true)
+![Contribution Graph](https://ghchart.rshah.org/DevDarsh26)
 
 ---
 
