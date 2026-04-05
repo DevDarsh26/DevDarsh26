@@ -1,6 +1,6 @@
 # Hey, I'm Darsh Modii 👋
 
-**Full-Stack Developer Student  · Learning AI **
+**Full-Stack Developer · Learning AI · India**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 📊 Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshmodi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarsh26&layout=compact&theme=radical)
 
 ---
 
