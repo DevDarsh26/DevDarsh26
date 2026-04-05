@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ### 🌐 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darshmodii.in-blueviolet?style=for-the-badge)](https://darshmodii.in)
