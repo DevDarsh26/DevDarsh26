@@ -23,9 +23,13 @@
 
 ### 📊 Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarsh26&layout=compact&theme=radical&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDarsh26&layout=compact&theme=radical&hide_border=true)
 
-![Darsh's Stats](https://github-readme-stats.vercel.app/api?username=DevDarsh26&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDarsh26&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DevDarsh26&theme=radical&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDarsh26&theme=react-dark&hide_border=true)
 
 ---
 
